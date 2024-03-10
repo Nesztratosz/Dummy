@@ -1,1 +1,2 @@
-print("Git is awsome")
+text = str(input("Please give me a text"))
+print(text)
