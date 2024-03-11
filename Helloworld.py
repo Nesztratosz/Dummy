@@ -1,2 +1,2 @@
-text = str(input("Please give me a text"))
+text = "Hello World"
 print(text)
